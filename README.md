@@ -1,12 +1,13 @@
 ### Hi there 👋, my name is Jody
-#### I am Python Developer
-I am a Brittany based Python developer specialised on frontend and backend web developement.
+#### I am Python Developer and Automation & Orchestration Consultant engineer
+I am a Brittany based Python developer specialised on frontend and backend web developement. I also use cloud technology and data-center professionals on an in-depth journey into the design, deployment, and management of infrastructure and applications.
 
 * Backend: Python, Django, Node.js, Express.js, PostgreSQL
 * Frontend: Javascript, React.js, jQuery, Bootstrap
-* DevOps: Docker, Heroku, AWS S3, VPS OVHCloud
-* Continous Integration: Travis CI
-* Monitoring: Sentry
+* DevOps: Kubernetes, Docker, Heroku, AWS S3, VPS OVHCloud
+* Cloud computing: Nutanix AOS, AHV, Calm; Micro Focus OO, CSA, HCMX
+* Continous Integration: Gitlab, Jenkins, Travis CI
+* Monitoring: Prometheus, Grafana, Sentry
 
 📫 How to reach me: etiennody@gmail.com 
 
