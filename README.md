@@ -2,7 +2,7 @@
 #### I am Python Developer
 I am a Brittany based Python developer specialised on frontend and backend web developement.
 
-*  Backend: Python, Django, Node.js, Express.js, PostgreSQL
+* Backend: Python, Django, Node.js, Express.js, PostgreSQL
 * Frontend: Javascript, React.js, jQuery, Bootstrap
 * DevOps: Docker, Heroku, AWS S3, VPS OVHCloud
 * Continous Integration: Travis CI
