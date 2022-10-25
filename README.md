@@ -9,6 +9,8 @@ I am a Brittany based Python developer specialised on frontend and backend web d
 * Continous Integration: Gitlab, Jenkins, Travis CI
 * Monitoring: Prometheus, Grafana, Sentry
 
+[https://etiennody.netlify.app/](https://etiennody.netlify.app/)
+
 📫 How to reach me: etiennody@gmail.com 
 
 
